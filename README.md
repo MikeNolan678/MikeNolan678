@@ -1,19 +1,19 @@
 <h1>Hi! I'm Mike Nolan 👋</h1>
 
-- 📍Based in **Amsterdam, NL**. Orignally from **Liverpool, UK**
+- 📍Living in **Amsterdam, NL**. Orignally from **Liverpool, UK**
   
-- 👨‍💻 **Business Analyst** at Patagonia EMEA
+- 👨‍💻 **Business Analyst** at Patagonia EMEA, specialising in Wholesale.
   
-- 💻 Building **front-end and back-end** with **C#** & **SQL**.
+- 💻 Mastering **front-end** and **back-end** development with **C#** & **SQL**.
   
-- 🏔 A passionate **climber, mountaineer, cyclist** and **runner**
+- 🏔 An avid **climber, cyclist** and **runner**. Passionate about **outdoor** adventures!
   
-- 🌱 Learning how to develop for **Dynamics 365 Finance and Operations** in **X++**
+- 🌱 Improving my skills in developing **Dynamics 365 Finance and Operations** in **X++**
 <br />
 
 ***A little more about me...***
 <br />
-- I love to ask questions, challenge ideas, and find solutions. My job is to think outside the box, solve problems and drive efficiencies.
-- By day, I'm a Business Analyst with a focus on Wholesale for Patagonia EMEA.
-- In my own time, I build front-end and back-end applications in C# and SQL.
+- I'm inquisitive and thrive on refining concepts and devising solutions.
+- My role allows me to think unconventionally, unravel problems, and streamline processes and systems.
+- In my personal time, I find joy in crafting front-end and back-end applications using C# and SQL.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
