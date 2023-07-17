@@ -14,7 +14,7 @@
 ***Technology Stack***
 <br />
 - C#
-- ASP.Net Core (MVC, Razor Pages, Web API, EF Core)
+- ASP.NET Core (MVC, Razor Pages, Web API, EF Core)
 - SQL Server
 - HTML, CSS, JavaScript & Boostrap
 - X++
