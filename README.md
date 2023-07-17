@@ -1,6 +1,6 @@
 <h1>Hi! I'm Mike Nolan 👋</h1>
 
-- 📍Living in **Amsterdam, NL**. Orignally from **Liverpool, UK**
+- 📍 Living in **Amsterdam, NL**. Orignally from **Liverpool, UK**
   
 - 👨‍💻 **Business Analyst** at Patagonia EMEA
   
