@@ -14,6 +14,5 @@
 ***A little more about me...***
 <br />
 - I'm inquisitive and thrive on refining concepts and devising solutions.
-- My role allows me to think unconventionally, unravel problems, and streamline processes and systems.
-- In my personal time, I find joy in crafting front-end and back-end applications using C# and SQL.
+- My role allows me to think unconventionally, unravel problems, and streamline processes and systems
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
