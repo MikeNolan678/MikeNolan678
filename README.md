@@ -4,7 +4,7 @@
   
 - 👨‍💻 **Business Analyst** at Patagonia EMEA
   
-- 💻 **Front-end** and **back-end** development with **C#** & **SQL**.
+- 💻 **Front-end** and **back-end** development with **.NET** & **SQL**.
   
 - 🏔 An avid **climber, cyclist** and **runner**. Passionate about **outdoor** adventures!
   
