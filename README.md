@@ -8,7 +8,6 @@
   
 - 🏔 An avid **climber, cyclist** and **runner**. Passionate about **outdoor** adventures!
   
-- 🌱 Improving my skills for developing **Dynamics 365 Finance and Operations** in **X++**
 <br />
 
 ***Technology Stack***
