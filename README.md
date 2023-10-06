@@ -20,6 +20,7 @@
 - Azure
 - DevOps
 - Git (including CI/CD)
+- Docker 
 - Power Automate, Dataverse and Power BI
 <br />
 
