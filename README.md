@@ -16,9 +16,9 @@
 - .NET (MVC, Razor Pages, Web API, EF Core, Dapper)
 - SQL Server
 - HTML, CSS, JavaScript & Boostrap
-- X++
 - Azure
-- Git (including CI/CD)
+- Git
+- CI/CD (Azure DevOps Pipelines)
 - Docker 
 - Power Automate, Dataverse and Power BI
 <br />
