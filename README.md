@@ -1,8 +1,8 @@
 <h1>Hi! I'm Mike Nolan 👋</h1>
 
-- 📍 Living in **Amsterdam, NL**. Orignally from **Liverpool, UK**
+- 📍 Living in **Ulverston, UK**.
   
-- 👨‍💻 **Business Analyst** at Patagonia EMEA
+- 👨‍💻 **Software Developer** at Citrus-Lime.
   
 - 💻 **Front-end** and **back-end** development with **.NET**, **JavaScript** & **SQL**.
   
@@ -15,7 +15,7 @@
 - C#
 - .NET (MVC, Razor Pages, Web API, EF Core, Dapper)
 - SQL Server
-- HTML, CSS, JavaScript & Boostrap
+- HTML, CSS, JavaScript, Vue.Js & Boostrap
 - Azure
 - Git
 - CI/CD (Azure DevOps Pipelines)
@@ -26,8 +26,8 @@
 ***A little more about me...***
 <br />
 - I'm inquisitive and thrive on refining concepts and devising solutions.
-- My role allows me to think unconventionally, unravel problems, and streamline processes and systems.
-- Proactively building my skills for a career in software development.
+- I like to think unconventionally, unravel problems, and streamline systems.
+- Passionate about proactively building my software development skills.
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
