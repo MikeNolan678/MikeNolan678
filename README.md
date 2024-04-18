@@ -18,7 +18,7 @@
 - HTML, CSS, JavaScript, Vue.Js & Boostrap
 - Azure
 - Git
-- CI/CD (Azure DevOps Pipelines)
+- CI/CD (Azure DevOps Pipelines, YAML)
 - Docker 
 - Power Automate, Dataverse and Power BI
 <br />
