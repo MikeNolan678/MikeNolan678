@@ -12,7 +12,7 @@
 
 ***Technology Stack***
 <br />
-- C# (.NET Framework, .NET Core, MVC, Razor Pages, Web API, EF Core)
+- C# (.NET Framework, .NET Core, Web API, EF Core, ASP.NET)
 - SQL Server
 - HTML, CSS, JavaScript, TypeScript, Vue.Js
 - Azure
