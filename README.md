@@ -12,8 +12,7 @@
 
 ***Technology Stack***
 <br />
-- C#
-- .NET (MVC, Razor Pages, Web API, EF Core, Dapper)
+- C# (.NET Framework, .NET Core, MVC, Razor Pages, Web API, EF Core)
 - SQL Server
 - HTML, CSS, JavaScript, TypeScript, Vue.Js
 - Azure
@@ -27,7 +26,6 @@
 <br />
 - I'm inquisitive and thrive on refining concepts and devising solutions.
 - I like to think unconventionally, unravel problems, and streamline systems.
-- Passionate about proactively building my software development skills.
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
