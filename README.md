@@ -1,10 +1,10 @@
 <h1>Hi! I'm Mike Nolan 👋</h1>
 
-- 📍 Living in **Ulverston, UK**.
+- 📍 Living in **Manchester, UK**.
   
 - 👨‍💻 **Software Developer** at Citrus-Lime.
   
-- 💻 **Front-end** and **back-end** development with **.NET**, **JavaScript** & **SQL**.
+- 💻 **Front-end** and **back-end** development with **.NET**, **TypeScript** & **SQL**.
   
 - 🏔 An avid **climber, cyclist** and **runner**. Passionate about **outdoor** adventures!
   
@@ -15,7 +15,7 @@
 - C#
 - .NET (MVC, Razor Pages, Web API, EF Core, Dapper)
 - SQL Server
-- HTML, CSS, JavaScript, Vue.Js & Boostrap
+- HTML, CSS, JavaScript, TypeScript, Vue.Js
 - Azure
 - Git
 - CI/CD (Azure DevOps Pipelines, YAML)
