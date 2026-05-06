@@ -1,8 +1,8 @@
 <h1>Hi! I'm Mike Nolan 👋</h1>
 
-- 📍 Living in **Manchester, UK**.
+- 📍 Living in **New Mills, Derbyshire, UK**.
   
-- 👨‍💻 **Software Developer** at Citrus-Lime.
+- 👨‍💻 **Software Engineering Lead** at The Carbon Literacy Project.
   
 - 💻 **Front-end** and **back-end** development with **.NET**, **TypeScript** & **SQL**.
   
